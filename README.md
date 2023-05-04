@@ -1,6 +1,6 @@
 # Food App
 
-Game night is a mobile application that will allow users to create and join other user-made board game events.
+This food app is a mobile application that will allow users to search for restaurants around certain locations based off of current location or zip codes. Users are able to look at restaurant details including the name, address, menu items, and top reviews of each restaurant. Users are also able to create a list of favorited restaurants for future use. 
 
 ### Setup
 
